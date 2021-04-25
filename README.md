@@ -1,34 +1,8 @@
-```javascript
- let a=0;
- const class() => {
-  let name = 'jiwoong';
- }
+[link keyword][id]
 
+[id]: URL "Optional Title here"
 
+// code
+Link: [Google][googlelink]
 
-
-```
-
-
-<pre>
-<code>
- public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
-}
-</code>
-</pre>
-
-***
-
-**
-
-****
-
-*****
-
-- - -
-
---
------------------
+[googlelink]: https://google.com "Go google"
