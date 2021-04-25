@@ -6,8 +6,9 @@ first git-hub test
 
 
 
-1.abc
-2.ef
+1. 첫번째
+2. 두번째
+ 3. 세번째
 
 * abc
   * def
