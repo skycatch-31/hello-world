@@ -2,8 +2,9 @@
 first git-hub test
 
 >myname is j
->>jiwoong
+> >jiwoong
 1.abc
+ 2.def
 
 * abc
   * def
